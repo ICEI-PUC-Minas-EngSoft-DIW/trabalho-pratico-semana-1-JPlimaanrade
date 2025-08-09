@@ -2,15 +2,15 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Joao Pedro Lima de Anrade<br>
+Matricula: 885317
 
 ## Tela de inspeção com navegador
-
+![alt text](<images/Print youtube site.png>)
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
 
 ## Tela de projeto no Replit
-
+![alt text](<images/Site Replit.png>)
 `<Coloque aqui o print da tela do projeto no Replit>`
 
 
